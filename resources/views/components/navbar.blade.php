@@ -18,7 +18,7 @@
     </div>
     <el-popover-group class="hidden lg:flex lg:gap-x-12">
       <a href="/" class="text-sm/6 font-semibold text-white">Home</a>
-      <a href="/blog" class="text-sm/6 font-semibold text-white">Blog</a>
+      <a href="/posts" class="text-sm/6 font-semibold text-white">Blog</a>
       <a href="/about" class="text-sm/6 font-semibold text-white">About</a>
       <a href="/contact" class="text-sm/6 font-semibold text-white">Contact</a>
     </el-popover-group>
@@ -46,7 +46,7 @@
             <div class="-my-6 divide-y divide-white/10">
               <div class="space-y-2 py-6">
                 <a href="/" class="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold text-white hover:bg-white/5">Home</a>
-                <a href="/blog" class="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold text-white hover:bg-white/5">Blog</a>
+                <a href="/posts" class="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold text-white hover:bg-white/5">Blog</a>
                 <a href="/about" class="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold text-white hover:bg-white/5">About</a>
                 <a href="/contact" class="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold text-white hover:bg-white/5">Contact</a>
               </div>
